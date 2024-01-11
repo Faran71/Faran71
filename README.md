@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently trying to build a portfolio Git hub pages website.
+I'm currently trying to get employed as a junior software engineer.
 
 
 ## 🌐 Socials:
