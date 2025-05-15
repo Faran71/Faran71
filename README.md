@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently trying to get employed as a junior software engineer.
+I'm currently a Full Stack Developer specialising in Enterprise grade application utilising Ruby on Rails and FastAPI.
 
 
 ## 🌐 Socials:
